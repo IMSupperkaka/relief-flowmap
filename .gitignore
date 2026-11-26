@@ -1,0 +1,4 @@
+node_modules
+dist
+# 原站资源，仅本地使用，禁止提交
+public/vendor
